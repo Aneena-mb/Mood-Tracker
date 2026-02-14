@@ -4,7 +4,7 @@ To Track Emotions of the user and tells how to deal with it
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Mood Tracker] 🎯
+# [safe Space journal] 🎯
 
 ## Basic Details
 
