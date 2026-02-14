@@ -26,7 +26,8 @@ To Track Emotions of the user and tells how to deal with it
 ]
 
 ### The Solution
-[How are you solving it?]
+[We solve this problem by building an interactive web-based Mood Tracker that helps users identify their emotions and receive guided, state-specific support instantly. The platform provides structured emotional responses such as journaling prompts, breathing exercises, anger-release interactions, and task breakdown tools to help users regulate feelings in a healthy way. Additionally, it stores and visualizes mood data over time, enabling users to track emotional patterns and build self-awareness.
+]
 
 ---
 
@@ -35,25 +36,26 @@ To Track Emotions of the user and tells how to deal with it
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [HTML, CSS, JavaScript, Python (Flask)]
+- Frameworks used: [Flask (Backend API)]
+- Tools used: [e.g., VS Code, Git,figma]
 
 **For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
+- Main components: [Laptop/PC, Internet connection]
+- Specifications: [4GB RAM, modern web browser]
+- Tools required: [Web browser, Git installed, Python environment (for backend)]
 
 ---
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [Mood Selection Interface: Users can select emotions such as Happy, Sad, Angry, Anxious, Tired, and Overwhelmed through an interactive UI.]
+- Feature 2: [Emotion-Specific Support Pages: Each mood triggers guided content like journaling prompts, breathing exercises, or structured emotional release activities.]
+- Feature 3: [Anger Release Interaction: Gamified tap-based stress release feature with visual feedback and progress tracking.]
+- Feature 4: [Journal & Memory Storage: Users can write and save emotional reflections, which are stored in the backend database.]
+- Feature 5:[User Authentication: Secure login and account management system.]
+- Feature 6:[Weekly Emotional Tracking: Visual representation of emotional patterns over time.]
 
 ---
 
@@ -87,7 +89,7 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
+![](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
