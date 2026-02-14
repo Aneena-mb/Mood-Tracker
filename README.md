@@ -97,6 +97,9 @@ Login Page
 Anger venting page 
 *Add capt<img width="1656" height="851" alt="Screenshot 2026-02-14 072418" src="https://github.com/user-attachments/assets/4a5b1b34-a8e3-4cfd-86e3-3589b25fb6c3" />
 The User can tap the image of the person they are angry 
+Emotion Tracker Chart
+<img width="1477" height="830" alt="Screenshot 2026-02-14 012144" src="https://github.com/user-attachments/assets/cd66e40b-df92-43da-afef-f242418ccb85" />
+
 #### Diagrams
 
 
