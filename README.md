@@ -15,7 +15,7 @@ To Track Emotions of the user and tells how to deal with it
 - Member 2: [Meera Murali] - [GECK]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://aneena-mb.github.io/Mood_Tracker/index.html]
 
 ### Project Description
 [**Mood Tracker** is an interactive mental wellness web application that helps users identify, understand, and manage their emotions in a healthy way. It provides mood selection, guided emotional support pages, journaling features, and visual progress tracking to promote self-awareness and emotional regulation. The platform combines engaging UI design with backend data storage to create a personalized mental health experience.
@@ -103,16 +103,7 @@ The User can tap the image of the person they are angry
 
 
 
-![Team](Add photo of your team here)
 
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ---
 
