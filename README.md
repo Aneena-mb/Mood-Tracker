@@ -87,42 +87,21 @@ List the key features of your project:
 
 ### For Software:
 
-#### Screenshots (Add at least 3)
+#### Main page of the Website
 
-![](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1570" height="866" alt="mainpage" src="https://github.com/user-attachments/assets/43ef37fe-cfb5-4e50-8625-580ec8bd3cca" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Login Page
+*Add <img width="1647" height="855" alt="Screenshot 2026-02-14 072650" src="https://github.com/user-attachments/assets/78ae8654-9322-4915-b6f1-6c72f90d2407" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+Anger venting page 
+*Add capt<img width="1656" height="851" alt="Screenshot 2026-02-14 072418" src="https://github.com/user-attachments/assets/4a5b1b34-a8e3-4cfd-86e3-3589b25fb6c3" />
+The User can tap the image of the person they are angry 
 #### Diagrams
 
-**System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
 
-**Application Workflow:**
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
-
----
-
-### For Hardware:
-
-#### Schematic & Circuit
-
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-#### Build Photos
 
 ![Team](Add photo of your team here)
 
